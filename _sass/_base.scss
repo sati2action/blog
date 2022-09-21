@@ -1,5 +1,8 @@
 body {
   background: $brand-color;
+  // background-image: url("#{$asset_url}/images/IMG_6411 Small.jpeg");//바둑판 배열
+  // background-repeat: no-repeat; 
+  // background-size: cover;
   color: $text-color;
   font-family: $font-family;
   font-size: 1.3125em;
@@ -119,8 +122,8 @@ figcaption {
 }
 
 .content-title {
-  font-size: 2em;
-  margin-bottom: 2em;
+  font-size: 1.8em;
+  margin-bottom: 1em;
   text-align: center;
 }
 
